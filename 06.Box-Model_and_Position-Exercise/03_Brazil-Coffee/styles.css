@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(185, 182, 182);
+}
+
+body {
+    border: 2px  transparent white;
+    background-color: white;
+    padding: 1em;
+    width: 450px;
+}
+
+button {
+    margin-top: 1em;
+    padding: 0.5em 1.5em 0.5em 1.5em;
+    color: white;
+    background-color: rgb(204, 4, 4);
+    border-radius: 0.3em;
+    letter-spacing: 1px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
