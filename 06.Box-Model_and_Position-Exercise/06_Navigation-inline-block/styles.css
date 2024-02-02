@@ -1,0 +1,27 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    margin-left: 5em;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 1em;
+    color: green;
+}
+
+main {
+    border-top: 2px solid black;
+}
+
+h2 {
+    margin-top: 1em;
+    font-weight: 300;
+}
