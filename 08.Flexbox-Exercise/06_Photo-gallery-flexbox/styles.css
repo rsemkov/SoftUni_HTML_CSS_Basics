@@ -1,0 +1,29 @@
+body, ul, li {
+    display: flex;
+}
+
+body {
+    background-color: rgb(193, 188, 188);
+    max-width: 1200px;
+}
+
+ul {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+li {
+    box-sizing: border-box;
+    border: 10px solid black;
+    margin: 1.2em;
+    background-color: white;
+    min-height: 530px;
+    align-items: center;
+}
+
+img {
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
